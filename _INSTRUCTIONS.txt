@@ -1,0 +1,4 @@
+PSET7 v1.0 by Parzivals.
+
+https://3ds.hacks.guide/installing-boot9strap-(mset9)
+PSET7 is an alternative to MSET9
